@@ -349,5 +349,51 @@ Often, more than expected gets installed
 - you can use anything you need
 - add bower_components to .gitignore
 
+## Fight the Zombie Pattern Library
+https://speakerdeck.com/marcelosomers/fight-the-zombie-pattern-library-css-dev-conf-2015
+http://j.mp/zombie-library-cssdevconf
+
+@marcelosomers
+
+> How do you keep building interfaces knowing that's what the world is like?
+
+> Build systems not pages
+
+Each deliverable is a design system.
+
+Design with patterns
+
+Design process breaks down with distributed devlopment
+
+Have a pattern library early to cut down on wasted artifacts.
+
+### Getting Started with your own
+#### Take Inventory of what you have
+
+##### What to document
+- Base styles
+- Components
+- Page templates
+
+#### Standardize
+
+#### Document
+
+##### Centralize your CSS
+
+### Code review on the CSS
+
+### Some helpful tools
+CSS Documentation
+- KSS
+
+Static Site Generation
+- Pattern Lab
+
+Integrated
+- SourceJS
+
+PatternPack
+
 
 
