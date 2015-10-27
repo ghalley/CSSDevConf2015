@@ -4,6 +4,7 @@
 
 ### SVG for web designers/devs
 http://www.slideshare.net/SaraSoueidan/svg-for-web-designers-and-developers
+
 Author of:
 - Coddrops CSS REference
 - Smashing Book 5
@@ -67,13 +68,7 @@ SVG adds shapes, paths, opacity, gradients, rotation, animation
 - start x, start y, end x, end y
 - starts at top left corner
 
-### Queen Mary's Engine Room
-- door 13 has crushed two men
-    - one has been spotted haunting the halls
-- use in filming of Poseiden Adventure
-
 ### Shapes
-----
 #### Rectangle
 Has a width, height, rx, ry (rounded edges), fill, and stroke
 
@@ -106,10 +101,6 @@ Has types of lines:
 - large-arc-flag is boolean
 - sweep-flag, clockwise or counterclockwise
 
-
-### The Pools
-women have appeared in old swimming suits
-
 Resources:
 - SVG Compressed by Jakob Jenkov
 - scriptdraw.com
@@ -137,8 +128,6 @@ definte reusable svg componants
 SVG on MDN
 jenkov.com SVG Tutorials
 talks.brennaobrien.com/svg-typography
-
-
 
 ## Web Components
 Why care about web components?
@@ -205,7 +194,7 @@ VR Testing isn't good at distinguishing change in content vs. change in styles.
 
 ## 2nd Keynote
 
-Designing Systems
+### Designing Systems
 - Style guides
     - Zombie style guides, unmaintened and unused
 
@@ -216,7 +205,7 @@ Single source of truth: DRY principle
 
 Design system should align your whole team
 
-Design Principles:
+### Design Principles:
 - Clarity
 - Efficiency
 - Consistency
@@ -240,7 +229,6 @@ Using principles of animation from Disney Animation book, summarized in a tumblr
 Create animation that feels a bit real, makes it feel relatable and familiar.
 
 ### Animation Principles
----
 #### Timing & Spacing
 Timing = duration
 
@@ -332,3 +320,34 @@ Not yet supported.
 - `not(s1, s2`
 - `has(s1, s2)`, (doesn't ever work in browser CSS), selection based on cabinets
 - `matches(s1, s2)`
+
+## Bower Power
+https://github.com/ecarlisle/bower-power
+
+### Dependency Management Issues
+KISS - Kill It & Start Screaming/Keep It Stunningly Simple
+- efficent, cheaper, better products, happier teams
+
+### What Bower does
+1. Maintains dependency manifest
+2. Fetches them when you need it
+3. Tracks Dependencies
+4. Integrates with everything
+
+### Bower vs NPM?
+Many similarities, unique strengths
+
+Bower:
+- Abstracts, separates concerns
+- Uses a flat dependency tree
+- Lives and breathes git
+- establishes accountability
+
+Often, more than expected gets installed
+- usually gets the whole github repo of project
+- you might discover something that way
+- you can use anything you need
+- add bower_components to .gitignore
+
+
+
