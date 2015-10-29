@@ -281,8 +281,6 @@ uianimationnewsletter.com
 @vlh
 
 ## CSS Level 4 Selectors
-
-bit.ly/votecss4 #lvl4
 @Jcutrell
 @developertea
 @whiteboardis
@@ -395,5 +393,23 @@ Integrated
 
 PatternPack
 
+## Closing Keynote - The art of being wrong
+shoptalkshow.com
+godaytrip.com
+
+### Sooooo many technologies to choose from
+
+Sometimes, ideas need to die after they become wrong (a.k.a. outdated)
+
+### How we become wrong
+- Have a really strong opinion on a really niche topic
+
+#### McNamara's fallacy
+- Measure whatever can be easily measured.  This is cool, as far it goes
+- Disregard that which can't be easily measured, or give an arbitrary value, which is artificial and misleading
+- presume that which can't be measured easily isn't very important.  Blindness
+- That which can't be measured isn't real.  Suicide.
+
+### Promote Better Discussions
 
 
