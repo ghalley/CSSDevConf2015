@@ -6,10 +6,11 @@
 http://www.slideshare.net/SaraSoueidan/svg-for-web-designers-and-developers
 
 Author of:
-- Coddrops CSS REference
+- Coddrops CSS Reference
 - Smashing Book 5
 
 SVG articles: sarasoueidan.com/articles
+
 Don't avoid SVG just to support IE8, use a fallback.
 SVG is best for user controls, logos, icons, and illustrations.
 - Icon Systems
@@ -31,7 +32,7 @@ Combine paths where possible, if you don't need to animate them seperately.
 
 Use good grouping, layering, and naming conventions.
 
-Keep width and height attributes on <svg>
+Keep width and height attributes on `<svg>`
 
 SVGO - a tool for optimizing SVG code
 
@@ -40,10 +41,11 @@ SVG JS animation library
 - Snap.svg
 - Velocity.js
 
-## Cracking the SVG Code #CrackSVG
+## Cracking the SVG Code
 @brendamarienyc
 Stickers!
 Girl Develop It!
+
 http://brendastorer.com/presentations/2015-10-CSSDevConf-SVGs/#intro
 
 SVG has similarities to HTML:
@@ -107,7 +109,7 @@ Resources:
 - Pocket Guide to SVG by Joni
 
 
-## Creative Typography with SVG Text #SVGType
+## Creative Typography with SVG Text
 No auto line-wrapping
 
 ### `tspan`
@@ -187,7 +189,7 @@ Basically testing pixels, not css or html (at it's purest form)
 - Comparison
 - Baseline
 
-* Lonely Planet Styleguide
+[Lonely Planet Styleguide](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 
 VR Testing isn't good at distinguishing change in content vs. change in styles.
 
@@ -240,7 +242,7 @@ Establishes mood, emotion, and reaction.
 
 Everything is better with cubic-beziers
 
-cubic-bezier.com
+www.cubic-bezier.com
 
 #### Follow Through
 Not everything stops at once
@@ -297,7 +299,6 @@ Time-dimensional
 
 Not yet supported.
 
-### Drag and Drop
 - `drop`(active, valid, invalid)
     - all :drop classes select the drop target, not the draggable item
 - `read-write`, `read-only`
@@ -409,6 +410,8 @@ Sometimes, ideas need to die after they become wrong (a.k.a. outdated)
 - Disregard that which can't be easily measured, or give an arbitrary value, which is artificial and misleading
 - presume that which can't be measured easily isn't very important.  Blindness
 - That which can't be measured isn't real.  Suicide.
+
+>Well, actually...
 
 ### Promote Better Discussions
 
