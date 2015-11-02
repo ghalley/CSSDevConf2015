@@ -1,5 +1,5 @@
 # CSS DevConf
-
+http://2015.cssdevconf.com/
 ## Opening Keynote
 
 ### SVG for web designers/devs
