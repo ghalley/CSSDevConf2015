@@ -395,6 +395,7 @@ Integrated
 PatternPack
 
 ## Closing Keynote - The art of being wrong
+https://speakerdeck.com/davatron5000/the-art-of-being-wrong
 shoptalkshow.com
 godaytrip.com
 
