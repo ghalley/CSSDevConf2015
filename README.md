@@ -110,6 +110,7 @@ Resources:
 
 
 ## Creative Typography with SVG Text
+http://talks.brennaobrien.com/svg-typography
 No auto line-wrapping
 
 ### `tspan`
@@ -132,6 +133,8 @@ jenkov.com SVG Tutorials
 talks.brennaobrien.com/svg-typography
 
 ## Web Components
+https://philipwalton.github.io/talks/2015-10-26/
+
 Why care about web components?
 - managing global names
 - scoping/isolating styles
@@ -160,7 +163,7 @@ Benefits of platform-based solutions
 - no dependencies
 - interoperability
 
-### Anatomy of Web Components #webmod
+### Anatomy of Web Components
 #### Shadow DOM
 - Subtree of DOM nodes that you can create on any HTML element
 - Shadow nodes are private
@@ -181,6 +184,8 @@ http://zastrow.co/speaking/css-dev-conf-2015/
 
 
 ## Visual Regression Testing #RegTest
+http://environmentsforhumans.com/2015/css-dev-conf/presentations/Godbolt-CSSDevConf2015-RegressionTesting.pdf
+
 https://www.dropbox.com/s/yfn2vw8bjfmyyiu/visual-regression.pdf?dl=0
 
 Basically testing pixels, not css or html (at it's purest form)
@@ -197,6 +202,8 @@ VR Testing isn't good at distinguishing change in content vs. change in styles.
 ## 2nd Keynote
 
 ### Designing Systems
+https://speakerdeck.com/jina/designing-a-design-system
+
 - Style guides
     - Zombie style guides, unmaintened and unused
 
@@ -221,6 +228,7 @@ speakerdeck.com/jina/designing-a-design-system
 
 
 ## Keynote Day 2: Designing Meaningful Animation
+http://www.slideshare.net/valhead/designing-meaningful-animation
 
 Great UI animation has both purpose and style!
 
@@ -283,6 +291,8 @@ uianimationnewsletter.com
 @vlh
 
 ## CSS Level 4 Selectors
+http://environmentsforhumans.com/2015/css-dev-conf/presentations/Cutrell-CSSDevConf2015-Selectors.pdf
+
 @Jcutrell
 @developertea
 @whiteboardis
@@ -322,6 +332,7 @@ Not yet supported.
 
 ## Bower Power
 https://github.com/ecarlisle/bower-power
+http://www.slideshare.net/ericcarlisle/bower-power-54549427
 
 ### Dependency Management Issues
 KISS - Kill It & Start Screaming/Keep It Stunningly Simple
@@ -416,4 +427,20 @@ Sometimes, ideas need to die after they become wrong (a.k.a. outdated)
 
 ### Promote Better Discussions
 
+------
 
+# Other Session Slides
+- [Responsible Data Visualization](http://slides.com/amandacheung/responsible-data-viz-v2) by Amanda Cheung
+- [The Dark Arts of Light Speed](http://www.slideshare.net/HenriHelvetica/dark-arts-light-speed) by Henri Helvetica
+- [No Pain No Gain](http://www.slideshare.net/Funstacy/no-pain-no-gain-css-code-reviews-ftw) by Stacy Kvernmo
+- [React Inline Styles and the Future of CSS](https://speakerdeck.com/alexlande/react-inline-styles-and-the-future-of-css) by Alex Lande
+- [DOM Features You Didn’t Know Existed](https://speakerdeck.com/impressivewebs/dom-features-you-didnt-know-existed) by Louis Lazaris
+- [SMACSS Your Sass Up](https://speakerdeck.com/minamarkham/smacss-your-sass-up) by Mina Markham
+- [acCeSSibility](http://hmig.github.io/acCeSSibility/) by Heather Migliorisi
+- [Smoothly Migrating to Flexbox](http://environmentsforhumans.com/2015/css-dev-conf/presentations/Park-CSSDevConf2015-Flexbox.pdf) by Charlie Park
+- [CSS Architecture](http://environmentsforhumans.com/2015/css-dev-conf/presentations/Snook-CSSDevConf2015-CSSArchitecture.pdf) by Jonathan Snook
+- [Deep Dive into Animation](http://estelle.github.io/animation/) by Estelle Weyl
+- [Container-based RWD with Element Queries](http://zastrow.co/speaking/decks/css-dev-conf-2015/) by Philip Zastrow
+- [Designing Complex SVG Animations](http://slides.com/sdrasner/cssdevconf/) by Sarah Drasner
+- [Exploring Fractals in CSS](http://slides.pixelass.com/CSSdevConf2015/) by Gregor Adams
+- [Fostering an “Open-Source” Front-end Culture at Work](https://speakerdeck.com/klamping/fostering-an-open-source-culture-at-work) by Kevin Lamping
